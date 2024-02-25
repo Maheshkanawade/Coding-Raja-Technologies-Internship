@@ -1,0 +1,8 @@
+the provided code covers all the features you requested for the command-line to-do list application:
+
+Task Management: Users can add, remove, and mark tasks as completed.
+Task Priority: Tasks can be assigned priorities (low, medium, high).
+Due Dates: Users can set due dates for tasks.
+List View: Tasks are displayed in a list format with their details.
+Data Persistence: Tasks are stored in a JSON file for persistence across sessions.
+You can run this Python script in your command-line interface, and it will provide the functionality described above.
